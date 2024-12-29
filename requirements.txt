@@ -1,0 +1,8 @@
+gspread
+google-auth
+openai
+langchain
+pandas
+gradio
+pdfplumber
+
