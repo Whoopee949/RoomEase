@@ -1,0 +1,42 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+
+# IDE/editor settings
+.vscode/
+*.swp
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# API keys or sensitive data
+service_account_key.json
+
+# Python package manager cache
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+
+# Utils folder exclusions
+utils/__pycache__/
+utils/*.log
+
+# UI folder exclusions
+ui/__pycache__/
+ui/*.log
+
+# Tests folder exclusions
+tests/
