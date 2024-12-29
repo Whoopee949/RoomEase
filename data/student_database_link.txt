@@ -1,0 +1,2 @@
+# Google Sheets link for storing student data and pairing results
+https://docs.google.com/spreadsheets/d/1pB_mT1a09tPTvNOyZRUgI5Fl-svivSKjUYCMo7kdm5U/edit?usp=sharing
